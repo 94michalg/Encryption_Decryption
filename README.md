@@ -3,7 +3,7 @@ Simple program that can encrypt or decrypt your message. All parameters are pass
 ## Features
 * Support shifting or unicode encoding algorithms
 * Input text can be read from file or passed as command-line argument
-* Output can be printed in console or saved in file
+* Output can be printed to the console or saved in file
 ## Setup
 `-mode enc` for encryption or `-mode dec` for decryption, default: encryption
 
